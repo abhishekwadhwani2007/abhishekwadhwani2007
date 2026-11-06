@@ -5,9 +5,9 @@ BSc IT (AI/ML) student focused on Computer Vision, Deep Learning, and building e
 - 🔭 **Building**: Real-time Computer Vision pipelines, Edge ML, and cross-platform desktop & mobile applications.
 - 💡 **Core Toolkit**: Python, OpenCV, MediaPipe, Flutter, FastAPI, SQLite, TFLite, PyTorch.
 - 📝 **Writing**: [From Spaghetti Code to Software Architecture: My Journey Building AttendancePro](https://medium.com/@abhishekwadhwani06/from-spaghetti-code-to-software-architecture-my-year-long-journey-building-attendancepro-9e4e1849c41f)
-- 📫 **Contact**:
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhishekwadhwani06@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Compose_in_Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Compose email in Gmail" /></a>
-  <a href="https://www.linkedin.com/in/abhishek-wadhwani-309984361/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
+- 📫 **Contact**: 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhishekwadhwani06@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-abhishekwadhwani06%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Abhishek" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-wadhwani-309984361/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-abhishek--wadhwani-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
 
 ---
 
