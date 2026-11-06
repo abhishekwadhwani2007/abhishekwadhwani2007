@@ -5,7 +5,9 @@ BSc IT (AI/ML) student focused on Computer Vision, Deep Learning, and building e
 - 🔭 **Building**: Real-time Computer Vision pipelines, Edge ML, and cross-platform desktop & mobile applications.
 - 💡 **Core Toolkit**: Python, OpenCV, MediaPipe, Flutter, FastAPI, SQLite, TFLite, PyTorch.
 - 📝 **Writing**: [From Spaghetti Code to Software Architecture: My Journey Building AttendancePro](https://medium.com/@abhishekwadhwani06/from-spaghetti-code-to-software-architecture-my-year-long-journey-building-attendancepro-9e4e1849c41f)
-- 📫 **Contact**: [Email](mailto:abhishekwadhwani06@gmail.com) • [LinkedIn](https://linkedin.com/in/abhishekwadhwani)
+- 📫 **Direct Contact**: `abhishekwadhwani06@gmail.com`  
+  [![Email](https://img.shields.io/badge/Email-abhishekwadhwani06%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishekwadhwani06@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekwadhwani06)
 
 ---
 
@@ -37,6 +39,6 @@ BSc IT (AI/ML) student focused on Computer Vision, Deep Learning, and building e
 ## GitHub Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekwadhwani2007&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekwadhwani2007&layout=compact&theme=default&hide_border=true" width="45%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=abhishekwadhwani2007&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhishekwadhwani2007&layout=compact&theme=default&hide_border=true" width="45%" alt="Top Languages" />
 </p>
