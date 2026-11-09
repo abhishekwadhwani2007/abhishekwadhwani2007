@@ -7,8 +7,8 @@ BSc IT (AI/ML) student focused on Computer Vision, Deep Learning, and building e
     <img src="https://img.shields.io/badge/Gmail-abhishekwadhwani06%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email Abhishek" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/abhishek-wadhwani-309984361/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-abhishek--wadhwani-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn Profile" />
+  <a href="https://www.linkedin.com/in/abhishek-wadhwani-ai/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-abhishek--wadhwani--ai-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn Profile" />
   </a>
 </p>
 
